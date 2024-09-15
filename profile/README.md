@@ -19,6 +19,6 @@ We are a passionate team that believes in providing modern web infrastructure to
 
 
 
-|   [SoundLine]   |           <a href="https://github.com//" target="blank"><picture style="width: 500px"><source media="(prefers-color-scheme: light)" srcset="https://github.com//.github/blob/main/images/1.svg" /><source media="(prefers-color-scheme: dark)" srcset="blob:https://imgur.com/a41511d0-077c-4d0b-bef2-3015c3e141f8" /><img src="blob:https://imgur.com/a41511d0-077c-4d0b-bef2-3015c3e141f8" width="500" alt="Logo" /></picture></a>            |
+|   [SoundLine]   |           <a href="https://github.com//" target="blank"><picture style="width: 500px"><source media="(prefers-color-scheme: light)" srcset="https://github.com//.github/blob/main/images/1.svg" /><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Soundlinedev/.github/blob/main/images/1.svg" /><img src="https://github.com/Soundlinedev/.github/blob/main/images/1.svg" width="500" alt="Logo" /></picture></a>            |
 | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
