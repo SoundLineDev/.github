@@ -4,7 +4,7 @@
 Use the AI voice translator. Take decisions in minutes with our AI engine.</h3>
 
 <div align="center">
-<img src="https://github.com//.github/blob/main/images/cover.png" width="400" alt="toEverything Logo" />
+<img src="https://i.imgur.com/A0Ixclh.png" width="400" alt="Logo" />
 </div>
 
 <h1 align="center"></h1>
