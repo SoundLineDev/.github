@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, shall we meet? I'm <a href="https://soundline.one/" target="_blank">SoundLine</a> 
+<h1 align="center">Hi there, shall we meet? I'm <a href="https://soundline.cc/" target="_blank">SoundLine</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Record the interview. Automatically centralize feedback.
 Use the AI voice translator. Take decisions in minutes with our AI engine.</h3>
